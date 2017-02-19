@@ -7,10 +7,13 @@
 3. 填写插件相关信息，等待审核
 4. 审核通过后会 Fork 你的仓库
 
+发布插件申请 issue 参考「[新增插件 PortScan](https://github.com/AntSword-Store/AntSword-Store.github.io/issues/1)」
+
 ### 如何更新已发布插件
 
 直接向 AntSword-Store 下的已经上架的插件仓库发起 Pull Request，审核通过后会更新
 
+更新插件参考「[AS_BugScan更新](https://github.com/AntSword-Store/AS_BugScan/pull/2)」
 
 ### 举报后门插件
 
